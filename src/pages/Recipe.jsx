@@ -75,6 +75,7 @@ background: white;
 border: 2px solid black;
 margin-right: 2rem;
 font-size: 600;
+cursor: pointer;
 `;
 
 const Info = styled.div`
